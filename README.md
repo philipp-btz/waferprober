@@ -63,7 +63,7 @@ This git repository is created by me, Philipp Bartz.
 In case you have any questions and I am not at KIP anymore and my KIP-email address is no longer active, feel free to reach out to me via github and create an Issue on the repo there.
 
 >[https://github.com/philipp-btz/waferprober/settings](https://github.com/philipp-btz/waferprober/settings) is an semi up-to-date dublicate of the velox Project. 
-*In there is no other possibility to reach me, create an issue there and I will try to help*
+*In case there is no other possibility to reach me, create an issue there and I will try to help*
 
 
 
