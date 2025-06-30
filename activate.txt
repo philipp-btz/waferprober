@@ -1,0 +1,4 @@
+True
+
+The Waferprobing program braks at save points, when the line above is changed
+To "activate" the program, put T r u e in this file

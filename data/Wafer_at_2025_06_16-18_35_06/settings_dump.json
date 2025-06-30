@@ -1,0 +1,23 @@
+{
+    "chuck_target_temperature": 25,
+    "delay_fbias": 1,
+    "delay_rbias": 1,
+    "device_port": "/dev/ttyUSB0",
+    "extra": "",
+    "measurements_per_diode": 1,
+    "movement_time": 0,
+    "plotting": true,
+    "start_fbias": 0,
+    "start_rbias": 0,
+    "step_fbias": 0.2,
+    "step_rbias": 0.5,
+    "stop_fbias": -2.5,
+    "stop_rbias": 50,
+    "tag_1": "weiterf\u00fchrung wafertest 1",
+    "tag_2": "",
+    "tag_3": "",
+    "time_at_end": "2025_06_20-12_26_51",
+    "time_at_start": "2025_06_16-18_35_06",
+    "wafer_folder": "data/Wafer_at_2025_06_16-18_35_06",
+    "waferprober_ip": "192.168.255.1"
+}

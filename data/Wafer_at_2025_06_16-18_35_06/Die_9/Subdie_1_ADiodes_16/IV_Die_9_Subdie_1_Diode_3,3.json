@@ -1,0 +1,53 @@
+{
+    "a_diodes": 16,
+    "column": "4",
+    "delay_fbias": 1,
+    "delay_rbias": 1,
+    "die_nr": "9",
+    "diode_Nr": "3,3",
+    "entrance_window": "E",
+    "guardring_value": "10",
+    "identifier": "04E10",
+    "iv_data_fbias": [
+        [
+            0.0,
+            2.866428e-08
+        ],
+        [
+            -0.2,
+            -0.0007924804
+        ],
+        [
+            -0.4,
+            -0.00158381
+        ],
+        [
+            -0.6,
+            -0.002383885
+        ]
+    ],
+    "iv_data_rbias": [
+        [
+            0.0,
+            -4.903194e-07
+        ],
+        [
+            0.5,
+            0.001662171
+        ]
+    ],
+    "row": "4",
+    "start_fbias": 0,
+    "start_rbias": 0,
+    "step_fbias": 0.2,
+    "step_rbias": 0.5,
+    "stop_fbias": -3.5,
+    "stop_rbias": 50,
+    "subdie_nr": "1",
+    "temp_at_end": 25.0,
+    "temp_at_start": 25.0,
+    "time_at_end": "2025_06_08-16_03_23",
+    "time_at_start": "2025_06_08-16_00_43",
+    "x_pos": "-57603.20208",
+    "y_pos": "58803.74129"
+}

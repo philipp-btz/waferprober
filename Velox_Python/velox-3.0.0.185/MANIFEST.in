@@ -1,0 +1,5 @@
+include README.rst
+include readme.txt
+include Velox Python Interface.docx
+include velox/samples/*
+include velox/sci/*

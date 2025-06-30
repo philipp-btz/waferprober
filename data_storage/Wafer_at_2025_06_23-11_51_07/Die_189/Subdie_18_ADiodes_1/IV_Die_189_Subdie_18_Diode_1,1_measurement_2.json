@@ -1,0 +1,64 @@
+{
+    "a_diodes": 1,
+    "column": "-9",
+    "delay_fbias": 1,
+    "delay_rbias": 1,
+    "die_nr": "189",
+    "diode_Nr": "1,1",
+    "entrance_window": "E",
+    "extra": "wholewafer2",
+    "guardring_value": "20",
+    "hash": "-7177329646660917620",
+    "identifier": "01E20",
+    "iv_data_fbias": [
+        [
+            0.0,
+            1.778858e-07
+        ],
+        [
+            -0.2,
+            -0.0004214268
+        ],
+        [
+            -0.4,
+            -0.0009393481
+        ],
+        [
+            -0.6,
+            -0.001528719
+        ],
+        [
+            -0.8,
+            -0.00216154
+        ]
+    ],
+    "iv_data_rbias": [
+        [
+            0.0,
+            -1.30254e-06
+        ],
+        [
+            0.5,
+            0.001201464
+        ]
+    ],
+    "measurement_no": 2,
+    "measurements_per_diode": 4,
+    "row": "-1",
+    "start_fbias": 0,
+    "start_rbias": 0,
+    "step_fbias": 0.2,
+    "step_rbias": 0.5,
+    "stop_fbias": -2.5,
+    "stop_rbias": 50,
+    "subdie_nr": "18",
+    "tag_1": "whole wafer",
+    "tag_2": "run_2",
+    "tag_3": "",
+    "temp_at_end": 25.0,
+    "temp_at_start": 25.0,
+    "time_at_end": "2025_06_24-23_21_07",
+    "time_at_start": "2025_06_24-23_18_28",
+    "x_pos": "66003.73576",
+    "y_pos": "105606.41364"
+}

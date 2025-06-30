@@ -1,0 +1,19 @@
+2025-06-20 21:09:15,576 - INFO - Start time: 2025_06_20-21_09_15
+2025-06-20 21:09:15,577 - INFO - Keithley initialized successfully.
+2025-06-20 21:09:15,608 - WAFERPROBER - Connected to Velox Message Server at 192.168.255.1.
+2025-06-20 21:09:15,610 - WAFERPROBER - WaferMap application registered successfully.
+2025-06-20 21:09:15,612 - WAFERPROBER - Set heater temperature to 25C
+2025-06-20 21:09:17,981 - WAFERPROBER - Stepped to next subdie: ['-1', '11', '18', '25']
+2025-06-20 21:09:17,982 - INFO - Starting new subdie movement and measurement
+2025-06-20 21:09:17,983 - PATH - ReadMapPosition2 output: ['-1', '11', '-10800.53368', '4800.0', '18', '25', '2', '336', '0', '0']
+2025-06-20 21:09:17,984 - PATH - Path found: p_1: ((150, 416, 'PATH'), (-216, 466, 'PAD', '1,1'), (150, 415, 'PATH'))
+2025-06-20 21:09:18,187 - PATH - ['1'] on seperation height
+2025-06-20 21:09:18,187 - PATH - Moving Probe to 150, 416
+2025-06-20 21:09:18,587 - PATH - ['1'] on seperation height
+2025-06-20 21:09:18,587 - PATH - Moving Probe to -216, 466
+2025-06-20 21:09:18,821 - LOWERING - Lowering Probe to contact Hight
+2025-06-20 21:09:32,667 - QUIET - Motor Quiet Mode ENabled
+2025-06-20 21:09:32,667 - MEASUREMENT - STARTING MEASUREMENT of diode 1,1
+2025-06-20 21:09:32,667 - MEASUREMENT - Measurement 1 of 4
+2025-06-20 21:09:32,669 - WAFERPROBER - ReadMapPosition2 output: ['-1', '11', '-10800.53368', '4800.0', '18', '25', '2', '336', '0', '0']
+2025-06-20 21:09:32,670 - WAFERPROBER - Temperature: 25.0C
