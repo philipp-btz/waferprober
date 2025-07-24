@@ -1,0 +1,8 @@
+True
+
+The Waferprobing program braks at save points, when the line above is changed
+To "activate" the program, put T r u e in this file
+
+When there is P a u s e in this file. the program will pause without exiting.
+While p a u s i n g, the state of activate.txt is checked every 60s, 
+so be patient if the program does not resume immediately.

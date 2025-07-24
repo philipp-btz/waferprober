@@ -1,0 +1,12 @@
+figs/
+.ipynb_checkpoints/
+__pycache__/
+data/
+.DS_Store
+__pycache__/custom_analyzer.cpython-36.pyc
+__pycache__/custom_filehandler.cpython-36.pyc
+__pycache__/custom_logging.cpython-36.pyc
+__pycache__/custom_measurement.cpython-36.pyc
+__pycache__/custom_measurement.cpython-39.pyc
+__pycache__/custom_pathlibrary.cpython-39.pyc
+__pycache__/custom_waferprober.cpython-39.pyc
